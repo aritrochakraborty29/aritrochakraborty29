@@ -1,6 +1,6 @@
 <img align="right" alt="GIF"  width="353px" src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-<h1 align="center">Hola 👋  :D , I'm Aritro Chakraborty</h1>
+<h1 align="center">Hola 👋  :D , I'm Aritro Chakraborty <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
 <h3 align="center"> A passionate web developer from India.</h3>
 <br>
 
