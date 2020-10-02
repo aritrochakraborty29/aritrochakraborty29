@@ -7,11 +7,11 @@
 <br>
 - 🕵 Intern at The [Cyrrup Solutions Pvt Ltd Foundation](https://www.cyrrup.com/) **(web developer and designer)**
 
-- 🔭 Also I’m currently working on this project [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
+- 🔭 Also I’m currently working on this project [Real-Time-Pose-Animation](https://github.com/aritrochakraborty29/Real-Time-Pose-Animation)
 
-- 🌱 I’m currently learning **Data Science🤩**
+- 🌱 I’m currently learning **FullStack Webdevloper🤩**
 
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber)
+- 👯 I’m looking to collaborate on [QX Research](https://github.com/qxresearch) & [GDG-Kolkata](https://www.meetup.com/GDG-Kolkata/#)
 
 - 🤝 I’m looking for help with [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
 
