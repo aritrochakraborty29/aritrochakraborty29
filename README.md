@@ -34,8 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal997-das&layout=compact&hide=html" alt="kushal997-das" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal997-das&show_icons=true&theme=radical" alt="kushal997-das" /></p>
-
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
 <br>
 <h2 align="center">Hey,Wait! 👋 don't foget to check my social media handles 😎🤩</h2>
