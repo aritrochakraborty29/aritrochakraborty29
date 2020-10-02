@@ -3,9 +3,9 @@
 <h1 align="center">Hola 👋  :D , I'm Aritro Chakraborty <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="65px"></h1>
 <h3 align="center"> A passionate web developer from India.</h3><br>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/aritrochakraborty29) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=aritrochakraborty29.profileviews-badge)](https://github.com/aritrochakraborty29) [![Open Source Love](https://img.shields.io/github/followers/aritrochakraborty29?style=social)](https://github.com/aritrochakraborty29?tab=followers)[![Years Badge](https://badges.pufler.dev/years/aritrochakraborty29)](https://badges.pufler.dev/years/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/aritrochakraborty29)](https://badges.pufler.dev/repos/aritrochakraborty29)
 <br>
-- 🕵 Intern at The Cyrrup Solutions Pvt Ltd Foundation **(web developer and designer)**
+- 🕵 Intern at The [Cyrrup Solutions Pvt Ltd Foundation](https://www.cyrrup.com/) **(web developer and designer)**
 
 - 🔭 Also I’m currently working on this project [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
 
