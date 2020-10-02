@@ -33,7 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritrochakraborty29&layout=compact&hide=html" alt="aritrochakraborty29" /></p>
 <br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritrochakraborty29&show_icons=true&theme=radical" alt="aritrochakraborty29" /></p>
 
 <h4 align="center">Show ❤️ By Starring My Repos!😊</h4>
