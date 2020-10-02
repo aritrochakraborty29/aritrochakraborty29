@@ -1,12 +1,12 @@
 <img align="right" alt="GIF"  width="353px" src="https://media2.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-<h1 align="center">Hola 👋  :D , I'm Kushal Das</h1>
-<h3 align="center"> A passionate Data Scientist from India.</h3>
+<h1 align="center">Hola 👋  :D , I'm Aritro Chakraborty</h1>
+<h3 align="center"> A passionate web developer from India.</h3>
 <br>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/kushal997-das) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=kushal997-das.profileviews-badge)](https://github.com/kushal997-das) [![Open Source Love](https://img.shields.io/github/followers/kushal997-das?style=social)](https://github.com/kushal997-das?tab=followers)
 <br>
-- 🕵 Intern at The Sparks Foundation **(Data Science and Analytics)**
+- 🕵 Intern at The Cyrrup Solutions Pvt Ltd Foundation **(web developer and designer)**
 
 - 🔭 Also I’m currently working on this project [Virtual Assistant](https://www.youtube.com/watch?v=Bp2790NCGqg&t=5s)
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Technical Staff and about programming languages😎**
 
-- 📫 How to reach me daskushal980@gmail.com
+- 📫 How to reach me aritrochakraborty29@gmail.com
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Kushal997-das)
 
