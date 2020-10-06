@@ -19,7 +19,7 @@
 
 - 📫 How to reach me aritrochakraborty29@gmail.com
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Kushal997-das)
+- 👨‍💻 All of my projects are available at [Portfolio]()
 
 
 - ⚡ Fun fact **Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂**
