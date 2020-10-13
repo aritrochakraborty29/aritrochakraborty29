@@ -50,8 +50,8 @@ print('Thank You! for visiting my github profile<3.')
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aritro-chakraborty-2283b616a/"><img align="center" src="https://img.favpng.com/15/24/8/linkedin-professional-network-service-clip-art-png-favpng-q49500q2zb8L7VrKSwnzAPEEM.jpg" alt="kushal's linkedin" width="32px" height="31.5px"/></a>  
-<a href="https://stackoverflow.com/users/13461431?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" alt="13461431/?tab=profile" height="37" width="37" /></a>
-<a href="https://kaggle.com/kushal123" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" alt="13461431/?tab=profile" height="37" width="37" /></a>
+<a href="https://kaggle.com/" target="blank"><img align="center" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="" height="30" width="30" /></a>
 <a href="https://fb.com/profile.php?id=100025042010456" target="blank"><img align="center" src="https://i.pinimg.com/564x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" alt="profile.php?id=100025042010456" height="38" width="37" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" alt="kushal_das07" height="37" width="37" /></a>
 <a href="https://www.youtube.com/channel/UCIHj6mNCMnSnmWLHOxzIESw?view_as=subscriber" target="blank"><img align="center" src="https://img.favpng.com/18/7/22/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="" height="32" width="32" /></a>
