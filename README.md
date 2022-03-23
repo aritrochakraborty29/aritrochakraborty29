@@ -5,11 +5,11 @@
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-brightgreen.svg?style=flat&logo=github)](https://github.com/aritrochakraborty29) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=aritrochakraborty29.profileviews-badge)](https://github.com/aritrochakraborty29) [![Open Source Love](https://img.shields.io/github/followers/aritrochakraborty29?style=social)](https://github.com/aritrochakraborty29?tab=followers)[![Years Badge](https://badges.pufler.dev/years/aritrochakraborty29)](https://badges.pufler.dev/years/Kushal997-das)[![Repos Badge](https://badges.pufler.dev/repos/aritrochakraborty29)](https://badges.pufler.dev/repos/aritrochakraborty29)
 <br>
-- 🕵 Ex-Intern at The [Cyrrup Solutions Pvt Ltd Foundation](https://www.cyrrup.com/) **(web developer and designer)**
+- 🕵 Intern at The [Cognizant Technology Solutions](https://www.cognizant.com/in/en) **(Full Stack Engineer)**
 
 - 🔭 Also I’m currently working on this project [Real-Time-Pose-Animation](https://github.com/aritrochakraborty29/Real-Time-Pose-Animation)
 
-- 🌱 I’m currently learning **FullStack Webdevloper🤩**
+- 🌱 I’m currently learning **FullStack devloper🤩**
 
 - 👯 I’m looking to collaborate on [QX Research](https://github.com/qxresearch) & [GDG-Kolkata](https://www.meetup.com/GDG-Kolkata/#)
 
